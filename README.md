@@ -4,7 +4,7 @@
 O projeto é uma API para gerenciamento de tarefas (tasks) e usuários, com as seguintes funcionalidades:
 - Gerenciar tarefas: criar, listar, atualizar e excluir tarefas.
 - Gerenciar usuários: criar, editar e autenticar usuários
-- Peristência: feita com SQLAlchemy em um banco de dados relacional.
+- Persistência: feita com SQLAlchemy em um banco de dados relacional.
 - Interface web: fornecida por Flask por via rotas REST.
 
 2. Decisões Arquiteturais

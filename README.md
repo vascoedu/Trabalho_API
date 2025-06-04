@@ -47,18 +47,18 @@ Esses adaptadores conectam o domínio às tecnologias externas, implementando as
 
 3. ![Diagram_Trabalho_API](https://github.com/user-attachments/assets/461b966c-8f24-499f-a994-366dd1512166)
 
-4. ![Endpoints](https://github.com/user-attachments/assets/f4429e21-46b2-4628-97ae-b0f87b4bce6a)
-4.1 ![POST Auth Login](https://github.com/user-attachments/assets/14b0a0ec-774f-40cd-9d43-1e118893b514)
-4.1.1 ![POST Auth Login Access Token](https://github.com/user-attachments/assets/59a5cc74-9421-494f-a797-8221d8e828c1)
-4.2.1 ![GET Users](https://github.com/user-attachments/assets/3a6abe50-9654-42dd-99c1-e208d5cced28)
-4.2.2 ![POST Users](https://github.com/user-attachments/assets/96d33681-c97f-49c5-a306-ec44c111b0f2)
-4.2.3 ![PUT Users](https://github.com/user-attachments/assets/edba1cea-63e0-4e3c-889b-c313ab408b5f)
-4.2.4 ![DELETE Users](https://github.com/user-attachments/assets/b68675bd-ac5b-4a8b-aeaf-c08b18c16c5a)
-4.3 ![POST Tasks](https://github.com/user-attachments/assets/20398764-c133-4663-b455-3942f60f9a7c)
-4.3.1 ![GET Tasks](https://github.com/user-attachments/assets/f74c45d1-031c-49e9-a64d-69f61240b10b)
-4.3.2 ![GET Tasks Assigned To](https://github.com/user-attachments/assets/7a9f7527-e11f-4be1-85ab-85fefabccf76)
-4.3.3 ![PUT Tasks](https://github.com/user-attachments/assets/7af6b903-f33a-4991-81d1-75111c39d502)
-4.1.2 ![POST Auth Logout](https://github.com/user-attachments/assets/fb980e04-0621-4629-88af-3e46fb6d81ce)
+4. Endpoints ![Endpoints](https://github.com/user-attachments/assets/f4429e21-46b2-4628-97ae-b0f87b4bce6a)
+4.1 POST Auth Login ![POST Auth Login](https://github.com/user-attachments/assets/14b0a0ec-774f-40cd-9d43-1e118893b514)
+4.1.1 POST Auth Login Access Token ![POST Auth Login Access Token](https://github.com/user-attachments/assets/59a5cc74-9421-494f-a797-8221d8e828c1)
+4.2.1 GET Users ![GET Users](https://github.com/user-attachments/assets/3a6abe50-9654-42dd-99c1-e208d5cced28)
+4.2.2 POST Users ![POST Users](https://github.com/user-attachments/assets/96d33681-c97f-49c5-a306-ec44c111b0f2)
+4.2.3 PUT Users ![PUT Users](https://github.com/user-attachments/assets/edba1cea-63e0-4e3c-889b-c313ab408b5f)
+4.2.4 DELETE Users ![DELETE Users](https://github.com/user-attachments/assets/b68675bd-ac5b-4a8b-aeaf-c08b18c16c5a)
+4.3 POST Tasks![POST Tasks](https://github.com/user-attachments/assets/20398764-c133-4663-b455-3942f60f9a7c)
+4.3.1 GET Tasks ![GET Tasks](https://github.com/user-attachments/assets/f74c45d1-031c-49e9-a64d-69f61240b10b)
+4.3.2 GET Tasks Assigned To ![GET Tasks Assigned To](https://github.com/user-attachments/assets/7a9f7527-e11f-4be1-85ab-85fefabccf76)
+4.3.3 PUT Tasks ![PUT Tasks](https://github.com/user-attachments/assets/7af6b903-f33a-4991-81d1-75111c39d502)
+4.1.2 POST Auth Logout ![POST Auth Logout](https://github.com/user-attachments/assets/fb980e04-0621-4629-88af-3e46fb6d81ce)
 
 5. Guia de Execução do projeto
    1. Extrair o arquivo .zip
@@ -71,4 +71,5 @@ Esses adaptadores conectam o domínio às tecnologias externas, implementando as
    1. Baixar o programa PostgreSQL
    2. Criar uma nova base de dados usando o task_manager_db (Como descrito no codigo em .env)
    3. Qualquer execução de endpoint pelo Postman irá causar mudanças na base de dados.
+Exemplo Base de Dados
 ![Exemplo Base de Dados](https://github.com/user-attachments/assets/cc64aa51-aa63-461f-8e63-50b33d36ece5)

@@ -45,7 +45,7 @@ Esses adaptadores conectam o domínio às tecnologias externas, implementando as
 - Independência tecnológica: O núcleo da aplicação não depende de nenhum framework específico.
 - Organização clara: Fica fácil entender “quem faz o quê”.
 
-3. ![Diagram_Trabalho_API](https://github.com/user-attachments/assets/461b966c-8f24-499f-a994-366dd1512166)
+3. Diagrama ![Diagrama](https://github.com/user-attachments/assets/86751d6a-84c3-46d9-b7b0-fbf65c435039)
 
 4. Endpoints ![Endpoints](https://github.com/user-attachments/assets/f4429e21-46b2-4628-97ae-b0f87b4bce6a)
 4.1 POST Auth Login ![POST Auth Login](https://github.com/user-attachments/assets/14b0a0ec-774f-40cd-9d43-1e118893b514)
